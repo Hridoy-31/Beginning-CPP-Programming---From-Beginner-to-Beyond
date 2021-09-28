@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="ExceptionHandling" Database="" Version="10000">
+  <Project Name="MPG" Path="MPG/MPG.project" Active="No"/>
+  <Project Name="MPGException" Path="MPGException/MPGException.project" Active="No"/>
+  <Project Name="MPGFunction" Path="MPGFunction/MPGFunction.project" Active="No"/>
+  <Project Name="MPGFunctionsMultipleExceptions" Path="MPGFunctionsMultipleExceptions/MPGFunctionsMultipleExceptions.project" Active="No"/>
+  <Project Name="ConstructorExceptions" Path="ConstructorExceptions/ConstructorExceptions.project" Active="No"/>
+  <Project Name="Challenge" Path="Challenge/Challenge.project" Active="Yes"/>
+  <Project Name="ChallengeSolution" Path="ChallengeSolution/ChallengeSolution.project" Active="No"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="MPG" ConfigName="Debug"/>
+      <Project Name="MPGException" ConfigName="Debug"/>
+      <Project Name="MPGFunction" ConfigName="Debug"/>
+      <Project Name="MPGFunctionsMultipleExceptions" ConfigName="Debug"/>
+      <Project Name="ConstructorException" ConfigName="Debug"/>
+      <Project Name="ConstructorExceptions" ConfigName="Debug"/>
+      <Project Name="Challenge" ConfigName="Debug"/>
+      <Project Name="ChallengeSolution" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="MPG" ConfigName="Release"/>
+      <Project Name="MPGException" ConfigName="Release"/>
+      <Project Name="MPGFunction" ConfigName="Release"/>
+      <Project Name="MPGFunctionsMultipleExceptions" ConfigName="Release"/>
+      <Project Name="ConstructorException" ConfigName="Release"/>
+      <Project Name="ConstructorExceptions" ConfigName="Release"/>
+      <Project Name="Challenge" ConfigName="Release"/>
+      <Project Name="ChallengeSolution" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
